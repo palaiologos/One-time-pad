@@ -1,3 +1,5 @@
 Compile with <compileall>
-Then run the p4gradingscript with two random ports after it: p4gradingsctip <port# port#>
 
+then, use the keygen file to generate a key.
+
+otp_enc encrypts the message while otp_dec decrypts it.
